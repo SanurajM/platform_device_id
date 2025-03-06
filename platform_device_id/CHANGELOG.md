@@ -1,3 +1,6 @@
+## 1.0.2
+migrated to device_info_plus
+
 ## 1.0.1
 update dependencies
 
