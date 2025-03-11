@@ -1,3 +1,6 @@
+## 1.0.3
+fixed android namespace
+
 ## 1.0.2
 migrated to device_info_plus
 
